@@ -1,0 +1,20 @@
+h1 {
+    font-size: 75;
+    background-color: slategray;
+    color:blue;
+}
+li {
+    color:navy;
+    font-size:20;
+}
+
+p {
+    color:navy;
+    font-size:20;
+    word-wrap: break-word;
+}
+
+img{
+    margin:auto;
+    width:100%;
+}
