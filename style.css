@@ -1,6 +1,6 @@
 h1 {
     font-size: 75;
-    background-color: slategray;
+    background-color: gray;
     color:blue;
 }
 li {
@@ -17,4 +17,21 @@ p {
 img{
     margin:auto;
     width:100%;
+}
+
+.parent{
+    
+    width:100%;
+    display:flex;
+    
+}
+
+.child{
+    margin:1%;
+    background-color: gray;
+    padding: 1%;
+    border-style:;
+    border: 4px outset navy;
+    flex:1;
+    
 }
