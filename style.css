@@ -1,7 +1,9 @@
 h1 {
+    text-align: center;
     font-size: 75;
-    background-color: gray;
-    color:blue;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyP6-G7c7_hXytcmo4BzfL-o8k63YmNT8c2qj0oT0XwbFqovQ:https://t4.ftcdn.net/jpg/02/43/75/73/360_F_243757367_gBpS6R5c8DB7pL5gw9gi9KXlzFfbdZOA.jpg&s);
+    color:transparent;
+    background-clip:text;
 }
 li {
     color:navy;
@@ -35,3 +37,12 @@ img{
     flex:1;
     
 }
+
+.navbar{
+    margin:1%;
+    background-color: gray;
+    padding: 1%;
+    border-style:;
+    border: 4px outset navy;
+}
+.imgtxt
